@@ -18,7 +18,7 @@ Function destruct {
     Write-Host  " "
     Write-Host  "⚠                           ⚠"
     Start-Sleep -Seconds 2
-    wt -w 2
+    wt -w 2 --profile YoRHa
     [Environment]::Exit(0)
 }
 

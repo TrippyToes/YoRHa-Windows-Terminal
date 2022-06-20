@@ -9,7 +9,6 @@ Clear-Host
 $sq = Get-Content $main_dir\boot_sequence.txt -Raw
 
 Function yorhaBoot {
-    #Set-Content $main_dir\boot_sequence.txt -Value "boot" -NoNewline
     Write-Host  " "
     Write-Host  " "
     Write-Host -NoNewline "LOADING - BOOTING SYSTEM" 

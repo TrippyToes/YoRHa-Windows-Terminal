@@ -12,7 +12,7 @@ Function recovery {
     set-location $image_dir
     remove-item YoRHa_bg.jpg
     Copy-Item YoRHa_bg_1.jpg YoRHa_bg.jpg
-    wt -w 3
+    wt -w 3 --profile YoRHa
     Start-Sleep -Seconds 2
     Set-Content $main_dir\boot_sequence.txt -Value "boot" -NoNewline
     [Environment]::Exit(0)
