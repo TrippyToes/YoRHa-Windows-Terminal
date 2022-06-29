@@ -49,7 +49,7 @@ If you are familiar with the Windows Terminal settings.json file, you can save s
 
 1. Open PowerShell and generate a GUID by using the cmdlet New-Guid (save the output GUID)
 
-![image](https://user-images.githubusercontent.com/59754088/176415078-0e992369-9c54-4408-b759-5acf65151df0.png)
+![image](https://user-images.githubusercontent.com/59754088/176419366-68d83ce6-55e9-41d0-88d1-8b13ce74e905.png)
 
 2. Open the Windows Terminal settings.json file (commonly found under ...AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState)
 
