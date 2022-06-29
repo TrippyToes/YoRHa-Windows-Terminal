@@ -30,14 +30,26 @@ The scripts can be called by executing the following commands:
 
 ## Installation and Configuration
 
+Download and place the full contents of this repository on a folder named "YoRHa" anywhere on your PC (I would recommend directly on "C:\")
+
 ### Font
- To Install the font, go to the YoRHa-Windows-Terminal\fonts folder and doubleclick on the "ITC Benguiat Book.ttf" font file. Follow the installation steps
+ To Install the font, go to the "YoRHa-Windows-Terminal\fonts" folder and double-click on the "ITC Benguiat Book.ttf" font file. Follow the installation steps
  
-### Profile Configuration
+### YoRHa_profile1.ps1
+ Open the file "YoRHa_profile1.ps1" with a text editor and replace the below text with the path to your "YoRHa" directory
+
+```
+  # Profile Directories
+   $main_dir = "PATH TO YOUR FOLDER FOLDER\YoRHa"
+```
 
 ### Windows Terminal Configuration
+## Windows Terminal Settings.json
+If you are familiar with the Windows Terminal settings file, you can save some time and effort by pplying the below settings:
+```
 
-## Credits
+```
+### Credits
 
 - Font:
   - Designer: [Edward Benguiat](https://upfonts.com/nier-automata-font/)
