@@ -1,7 +1,7 @@
 # YoRHa Windows Terminal
 Windows Terminal (Powershell) customization with a NIER:Automata YoRHa Terminal theme
 
-![image](https://user-images.githubusercontent.com/59754088/176329893-3e866eb1-3c4a-4dfa-93c1-a27760e7f3ce.png)
+![image](https://user-images.githubusercontent.com/59754088/176418633-9cdb899e-9005-49ae-b4ce-bc58a3f0348b.png)
 
 
 ## Features
