@@ -5,14 +5,14 @@ Windows Terminal (Powershell) customization with a NIER:Automata YoRHa Terminal 
 
 
 ## Features
-###### Terminal
+### Terminal
 Theis theme applies to Powershell using Windows Terminal. The theme consists of:
 
 - Nier:Automata themed Backgrounds and Icons
-- Custom Nir Automata Font
-- Scripts that simulate Nier Automata Actions
+- Custom Nier:Automata Font
+- Scripts that simulate Nier Automata in-game actions
 
-###### Commands
+#### Commands
 The scripts can be called by executing the following commands:
 - boot: 
   - This will display the boot sequence. 
@@ -39,14 +39,11 @@ The scripts can be called by executing the following commands:
 
 ## Credits
 
-### Font:
-
-  Designer: [Edward Benguiat](https://upfonts.com/nier-automata-font/)
+- Font:
+  - Designer: [Edward Benguiat](https://upfonts.com/nier-automata-font/)
   
-### Icon:
-
-  Designer: [Crussong](https://www.deviantart.com/crussong/art/NieR-Automata-Icon-Media-604049008) 
+- Icon:
+  - Designer: [Crussong](https://www.deviantart.com/crussong/art/NieR-Automata-Icon-Media-604049008) 
   
-### Background:
-  	
-  Designer: [u/GALM-1](https://www.reddit.com/r/nier/comments/5vves3/1080p_wallpaper_yorha_for_the_glory_of_mankind/)
+- Background:
+  - Designer: [u/GALM-1](https://www.reddit.com/r/nier/comments/5vves3/1080p_wallpaper_yorha_for_the_glory_of_mankind/)
