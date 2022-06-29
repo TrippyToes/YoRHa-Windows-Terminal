@@ -36,14 +36,14 @@ The scripts can be called by executing the following commands:
 
 ## Credits
 
-###### Font:
-	https://upfonts.com/nier-automata-font/
-	Designer: Edward Benguiat
+### Font:
+
+  Designer: [Edward Benguiat](https://upfonts.com/nier-automata-font/)
   
-###### Icon:
-  https://www.deviantart.com/crussong/art/NieR-Automata-Icon-Media-604049008
-  Designer: Crussong
+### Icon:
+
+  Designer: [Crussong](https://www.deviantart.com/crussong/art/NieR-Automata-Icon-Media-604049008) 
   
-###### Background:
-  https://www.reddit.com/r/nier/comments/5vves3/1080p_wallpaper_yorha_for_the_glory_of_mankind/
-  Designer: u/GALM-1
+### Background:
+  	
+  Designer: [u/GALM-1](https://www.reddit.com/r/nier/comments/5vves3/1080p_wallpaper_yorha_for_the_glory_of_mankind/)
